@@ -1,6 +1,6 @@
-# Aria_helper
+# SIMPLE PYTHON
 
-Aria helper CHRLINE version.
+LVPY CHRLINE version.
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYiJhu%2FAria_helper.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYiJhu%2FAria_helper?ref=badge_shield)
 
