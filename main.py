@@ -12,8 +12,8 @@ import base64
 
 # logging.basicConfig(level=logging.DEBUG)
 
-bot = CHRLINE(authTokenOrEmail="Token or mail", password="Password",
-              device="DESKTOPWIN", os_name="Aria helper")
+bot = CHRLINE(authTokenOrEmail="Token or email", password="Password",
+              device="DESKTOPWIN", os_name="LeeVersion")
 
 Admin = ["Admin_MID"] # Admin
 Owner = ["Owner_MID"] # Owner
